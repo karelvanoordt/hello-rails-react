@@ -1,2 +1,2 @@
 Hello Rails App
-Dev branch
+Setup branch
